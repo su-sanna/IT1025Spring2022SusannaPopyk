@@ -1,4 +1,5 @@
 ## Your Name / Date
+Susanna Popyk / 23 January 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
