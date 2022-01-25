@@ -16,7 +16,7 @@ To be completed in the last module of the semester.
 Hadn’t had a full lot experience with Github, but overall, I like it and it looks straightforward. Github’s cloud computing is organized, easily understandable, and accessible. Github is very useful and fair in regards to the client-server. It is simple and broken down for the client to understand and be able to work at his own pace. Github gives a lot of resources, tools, and helps for all kinds of projects and for various instances. It also allows multiple people with various levels of knowledge and different backgrounds to be able to explore their site.
 
 #### Screen Capture
-The file I uploaded to GitHub is named, "ScreenCapture." It was created through the snipping tool found in Windows Operating System distributed by Microsoft. The type of file is is, is a PNG. It opens with "photos." Has the size of 68.8 KB or 70.538 bytes.
+The file I uploaded to GitHub is named, "ScreenCapture." It was created through the snipping tool found in Windows Operating System distributed by Microsoft. The type of file it is, is a PNG. It opens with "photos." Has the size of 68.8 KB or 70.538 bytes.
 #### Application, Utility, and Operating Systems
 #### ERP
 #### Virtualization
