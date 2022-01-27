@@ -18,6 +18,10 @@ Hadn’t had a full lot experience with Github, but overall, I like it and it lo
 #### Screen Capture
 The file I uploaded to GitHub is named, "ScreenCapture." It was created through the snipping tool found in Windows Operating System distributed by Microsoft. The type of file it is, is a PNG. It opens with "photos." Has the size of 68.8 KB or 70.538 bytes.
 #### Application, Utility, and Operating Systems
+-Application Software is used for working with specific tasks and completing certain functions. Some examples of an application are the calculator (for computing math), play store (for downloading content), Google (to search content), and many more like so. 
+-Utility Software is an aide with different programs to help change or redirect a computer. An example of utility software would be McAfee or ESET. These are programs that make changes to a computer to shield it from viruses and all kinds of other gunk that may invade one’s pc.
+-Operating system software is the parent of almost all programs. It is the initial program that gets inputted into a pc, which holds and controls many other different sub-programs and applications, as well as, control major functions and files. Some examples include Windows Operating systems, Apple Mac OS, Android, etc. 
+
 #### ERP
 #### Virtualization
 #### Python
