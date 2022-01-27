@@ -23,6 +23,7 @@ The file I uploaded to GitHub is named, "ScreenCapture." It was created through 
 -Operating system software is the parent of almost all programs. It is the initial program that gets inputted into a pc, which holds and controls many other different sub-programs and applications, as well as, control major functions and files. Some examples include Windows Operating systems, Apple Mac OS, Android, etc. 
 
 #### ERP
+Mainly used for various sized business- from big corps to small businesses (nowadays). It is a tool that combines different files and data from various users into one compiled database. This is extremely helpful for organizations with their accounting matters- helps to keep and bring all profits made into one system. Example of an ERP would be SAP, Oracle, and Microsoft. 
 #### Virtualization
 #### Python
 #### Graphic Modeling and Rendering
