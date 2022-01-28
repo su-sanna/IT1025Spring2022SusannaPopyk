@@ -25,6 +25,7 @@ The file I uploaded to GitHub is named, "ScreenCapture." It was created through 
 #### ERP
 Mainly used for various sized business- from big corps to small businesses (nowadays). It is a tool that combines different files and data from various users into one compiled database. This is extremely helpful for organizations with their accounting matters- helps to keep and bring all profits made into one system. Example of an ERP would be SAP, Oracle, and Microsoft. 
 #### Virtualization
+The purpose of virtualization is to share the capabilities of a hard drive among servers. A common IT problem solved by virtualization is breaking up a server into smaller parts that control a function and better in handling tasks. Following this, hypervisor in virtualization is a distinguishment of resources between physical and virtual environments. 
 #### Python
 #### Graphic Modeling and Rendering
 #### File Compression
