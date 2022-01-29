@@ -27,6 +27,10 @@ Mainly used for various sized business- from big corps to small businesses (nowa
 #### Virtualization
 The purpose of virtualization is to share the capabilities of a hard drive among servers. A common IT problem solved by virtualization is breaking up a server into smaller parts that control a function and better in handling tasks. Following this, hypervisor in virtualization is a distinguishment of resources between physical and virtual environments. 
 #### Python
+-Simple but impactful. Manages the memory by itself. A high-level language. Portable to diverse platforms. 
+-Interpreted language: instructions are outputted directly. 
+-Compiled language: instruction is taken into machine code, then the processor executes. 
+
 #### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
