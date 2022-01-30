@@ -38,8 +38,17 @@ The purpose of virtualization is to share the capabilities of a hard drive among
 
 ### Career Exploration
 #### Bureau of Labor Statistics
+-Web Developers and Digital Designers
+-2020 median pay: 77,200/year ; 37.12/hour
+-entry level education: bachelor’s degree
+-# of jobs (2020): 199,400
+-job outlook (2020-’30): 13%
+-employment change (2020-’30): 25,500
 #### Handshake
 #### Certifications, Certificates, and Degrees
+-CompTIA: finds, shields and executes cybersecurity.
+-Cisco: Associate level: CCNA Enterprise, CyberOps Associate, DevNet Associate
+-CISSP: Focused on cybersecurity. Positions include: IT Director, security analyst, network architect, etc.
 #### Industry Associations and Student Organizations
 
 ### Computer Architecture
