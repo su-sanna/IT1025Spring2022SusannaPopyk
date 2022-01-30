@@ -30,7 +30,8 @@ The purpose of virtualization is to share the capabilities of a hard drive among
 -Simple but impactful. Manages the memory by itself. A high-level language. Portable to diverse platforms. 
 -Interpreted language: instructions are outputted directly. 
 -Compiled language: instruction is taken into machine code, then the processor executes. 
-
+-Python1
+-Python2
 #### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
