@@ -45,12 +45,14 @@ The purpose of virtualization is to share the capabilities of a hard drive among
 -job outlook (2020-’30): 13%
 -employment change (2020-’30): 25,500
 #### Handshake
+It is a very useful resource. In my experience, I found it to be utilized easily. There are many support links one can go to for help. And it does an amazing job at enhancing one’s career readiness. 
 #### Certifications, Certificates, and Degrees
 -CompTIA: finds, shields and executes cybersecurity.
 -Cisco: Associate level: CCNA Enterprise, CyberOps Associate, DevNet Associate
 -CISSP: Focused on cybersecurity. Positions include: IT Director, security analyst, network architect, etc.
+A Tri-c program/certificate of interest to me would have to be software development. 
 #### Industry Associations and Student Organizations
-
+-ACM-W: the purpose of this organization is to empower and bring more awareness to women in the technology field. Benefits would include increase in pay, higher establishment, more recognition, etc. 
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
