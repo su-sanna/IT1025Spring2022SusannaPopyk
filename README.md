@@ -55,8 +55,12 @@ A Tri-c program/certificate of interest to me would have to be software developm
 -ACM-W: the purpose of this organization is to empower and bring more awareness to women in the technology field. Benefits would include increase in pay, higher establishment, more recognition, etc. 
 ### Computer Architecture
 #### CPU
+-CPU's role is "the brain of the computer." It processes data through various steps to get to a final instruction or solution. The interaction of ALU with CPU helps the CPU to choose between which instructions to complete depending on the output.
+-In a grocery store you have an input of a barcode. You scan the barcode, the data is processed by the CPU, to which it then outputs the description and price of the product on the screen. 
 #### Gates and Circuits
+A truth table is an output for every possible input. AND truth tables are outputs with strict inputs versus OR truth tables are any inputs producing outputs. 
 #### IEEE
+The purpose of IEEE is to advance technology to better the humanity. Their focus on ethics are very profound. They value ethics for the safety of the public, protection of their clients and customers, and the excellence and improvement of skills in their company and among their team.
 #### Storage
 #### Memory
 #### Data Representation
