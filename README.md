@@ -62,7 +62,14 @@ A truth table is an output for every possible input. AND truth tables are output
 #### IEEE
 The purpose of IEEE is to advance technology to better the humanity. Their focus on ethics are very profound. They value ethics for the safety of the public, protection of their clients and customers, and the excellence and improvement of skills in their company and among their team.
 #### Storage
+-Latency: “average time for the sector being accessed to rotate into position under a head, after a completed seek.” The time it takes for the hard drive to read or write data.
+-Transfer rates: the speed data is being transferred at. And it is “a function of the recording frequency.”
+-SSD is newer, faster at processing data, is in the form of a chip, easy accessible data, and lightweight. Whereas the Hard drive disk is older, slower at processing data, physical form of a needle and disk, takes awhile to startup data, and is heavier. 
+
 #### Memory
+-Increasing RAM impacts computing speed because more data can be put in into the faster RAM without touching the slower hard drive. 
+Two differences between RAM and hard disk storage are one, the RAM is temporary storage for when the CPU needs to retrieve data on the spot versus hard disk storage is permanent where files and specific operating system data is stored. Two, RAM works at a faster rate than the hard disk storage.
+
 #### Data Representation
 #### Operating Systems
 
