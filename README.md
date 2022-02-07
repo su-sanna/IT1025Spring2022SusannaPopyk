@@ -71,6 +71,10 @@ The purpose of IEEE is to advance technology to better the humanity. Their focus
 Two differences between RAM and hard disk storage are one, the RAM is temporary storage for when the CPU needs to retrieve data on the spot versus hard disk storage is permanent where files and specific operating system data is stored. Two, RAM works at a faster rate than the hard disk storage.
 
 #### Data Representation
+-Decimal represents numbers with 10 digits. Binary represents numbers with 2 digits. And hexadecimal represents numbers with 10 digits and 6 characters. 
+-Representation of #ab0fff: vivid violet. 11210751 (decimal value). This color would be problematic because of the many variants of such a color and the many similar hues it has with other alike colors. The trend of the color, the rate of variants of a color, the vibrancy of a color- should all be considered. 
+-The binary for decimal 198 is 11000110. 128 can go into 198 so subtract. We get 70, 64 can go into 70, so subtract. We get 6, 4 can go into 6 so subtract. We get 2, 2 can go into 2, subtract. We get zero, zero cannot go into 1, so we stop. 
+-The decimal for binary 10001101 is 141. The numbers that can go into the decimal are found by the ones. We look at the numbers placed as ones, add them, and get our decimal answer. 
 #### Operating Systems
 
 ### Networking
