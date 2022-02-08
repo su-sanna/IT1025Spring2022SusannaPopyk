@@ -76,7 +76,7 @@ Two differences between RAM and hard disk storage are one, the RAM is temporary 
 -The binary for decimal 198 is 11000110. 128 can go into 198 so subtract. We get 70, 64 can go into 70, so subtract. We get 6, 4 can go into 6 so subtract. We get 2, 2 can go into 2, subtract. We get zero, zero cannot go into 1, so we stop. 
 -The decimal for binary 10001101 is 141. The numbers that can go into the decimal are found by the ones. We look at the numbers placed as ones, add them, and get our decimal answer. 
 #### Operating Systems
-
+I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked on "open" under it and opened up the command line window. After the initial text that is there, I typed in "mkdir (space) IT1025." There I indicated I made a space between "mkdir" and "IT1025." After this command I hit enter. Then I went into "File Explorer", then User, then my account in the pc, and there I found the file for "IT1025." Lastly, I took a screencapture of my file and uploaded it to Github as "IT1025Folder."
 ### Networking
 #### Data Transmission
 #### Hardware
