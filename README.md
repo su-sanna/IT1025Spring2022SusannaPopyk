@@ -33,6 +33,11 @@ The purpose of virtualization is to share the capabilities of a hard drive among
 -Python1
 -Python2
 #### Graphic Modeling and Rendering
+-Raster image: an image made up of tiny tiny pixels. This is why small images have poor quality. Raster image would be appropriate to use in gif or jpeg files; in photoshop or painting programs. 
+-Vector image: not pixel based. Image made up with special geometry. These images do not loose quality when fluctuating the size of the images. Vector image would be appropriate to use in svg or pdf;  in advertising and marketing.
+-For web developers, lossless image format is important because original data of a file is not lost, so if one needed reference or any original components of an image than it will be there. The lossy compression is important for web developers because it helps to decrease repetitive data, so the developer doesn’t waste time on de-clutting and can get straight to his task to be done. 
+-Similarities of jpg, gif, and png files: png and gif support 8-bit colors, png and jpg support 24-bit colors. All are non-lossy. 
+-Differences of jpg, gif, and png files: difference in tasks used for. Jpg used in natural scenes where color and intensity is smooth. Gif used in animations. Png used in logos and text/object images with sharp contrasts.
 #### File Compression
 #### Artificial Intelligence
 
