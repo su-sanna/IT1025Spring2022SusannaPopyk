@@ -100,6 +100,14 @@ I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked
 
 ### Software Development
 #### Algorithms
+-Variable: “box in the computer’s memory.” Result of an expression can be saved in this box, and the box later, can substitute for the long expression. Example in my code = my age or name (instead of writing out my name or age, the box was created to input it automatically). Author uses such variable names as spam, bacon, and eggs because of a reference to a comedy sketch. 
+-Assignment statement: a variable name equaling an output. Example in my code = “my Age” held the value of 21. 
+-Function: code that implements a certain task. Example in my code = “print,” which tells the program to run whatever code you input. 
+-Data types = category of values. 3 types:
+-Integers: whole numbers. Example used in my code = my age ( 21 ). 
+-Floating-point numbers: numbers with decimals. No example used in my code.
+-Strings: texts. Example used in my code = “Hello World,” “It is good to meet you,” etc.
+
 #### Object Oriented Concepts
 
 ### Database Systems
