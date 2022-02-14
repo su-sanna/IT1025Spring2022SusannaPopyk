@@ -88,6 +88,7 @@ The data transmission process begins with a host (any communicational device), w
 #### Hardware
 The switch has the greater benefit versus the hub because it works more efficiently at transmitting data. In a scenario where an IP address is not found, the switch will transmit the data to all devices in the network instead of one specific destination. Routers are more beneficial than hubs and switches because of its attentiveness. The router is able to send data to multitude of various destinations and networks at a greater speed versus hubs and switches that only send to one device. 
 #### Topologies and Types of Networks
+Single point of failure is a flaw in a portion of a system that can cause the system to fail as a whole. The type of topologies that experience this issue are bus topologies, because if one cable fails then all the rest of the cables fail, resulting in the network to crash. Infrastructure and Wireless mesh topology are similar in that they both have multiple access points. The only difference is that one is physically connected to the switch, while the other is wirelessly connected to the switch. I think the wireless is better because it saves you money and time spent on the extra cabling, and with the wireless, if there was a fail in a connection it won’t crash all other connections; the rest of the connections would still work. 
 #### Protocols
 
 ### Cybersecurity and Encryption
