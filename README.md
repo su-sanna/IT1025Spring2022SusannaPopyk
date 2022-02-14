@@ -84,6 +84,7 @@ Two differences between RAM and hard disk storage are one, the RAM is temporary 
 I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked on "open" under it and opened up the command line window. After the initial text that is there, I typed in "mkdir (space) IT1025." There I indicated I made a space between "mkdir" and "IT1025." After this command I hit enter. Then I went into "File Explorer", then User, then my account in the pc, and there I found the file for "IT1025." Lastly, I took a screencapture of my file and uploaded it to Github as "IT1025Folder."
 ### Networking
 #### Data Transmission
+The data transmission process begins with a host (any communicational device), which follows a protocol to communicate to another device once a packet has been established. An IP address is established. Then, the packet-switching works with the DNS to choose the IP address needed to base the destination of data being transmitted to. 
 #### Hardware
 #### Topologies and Types of Networks
 #### Protocols
