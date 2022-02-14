@@ -86,6 +86,7 @@ I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked
 #### Data Transmission
 The data transmission process begins with a host (any communicational device), which follows a protocol to communicate to another device once a packet has been established. An IP address is established. Then, the packet-switching works with the DNS to choose the IP address needed to base the destination of data being transmitted to. 
 #### Hardware
+The switch has the greater benefit versus the hub because it works more efficiently at transmitting data. In a scenario where an IP address is not found, the switch will transmit the data to all devices in the network instead of one specific destination. Routers are more beneficial than hubs and switches because of its attentiveness. The router is able to send data to multitude of various destinations and networks at a greater speed versus hubs and switches that only send to one device. 
 #### Topologies and Types of Networks
 #### Protocols
 
