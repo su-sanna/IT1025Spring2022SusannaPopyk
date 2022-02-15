@@ -84,6 +84,11 @@ Two differences between RAM and hard disk storage are one, the RAM is temporary 
 I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked on "open" under it and opened up the command line window. After the initial text that is there, I typed in "mkdir (space) IT1025." There I indicated I made a space between "mkdir" and "IT1025." After this command I hit enter. Then I went into "File Explorer", then User, then my account in the pc, and there I found the file for "IT1025." Lastly, I took a screencapture of my file and uploaded it to Github as "IT1025Folder."
 ### Networking
 #### Data Transmission
+Protocol: Set of rules to allow devices to communicate 
+Packet: Unit of data 
+IP Address: Unique identifying number 
+Packet-Switching: Technology that allows packets of data to be routed based on destination address 
+DNS: Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
 The data transmission process begins with a host (any communicational device), which follows a protocol to communicate to another device once a packet has been established. An IP address is established. Then, the packet-switching works with the DNS to choose the IP address needed to base the destination of data being transmitted to. 
 #### Hardware
 The switch has the greater benefit versus the hub because it works more efficiently at transmitting data. In a scenario where an IP address is not found, the switch will transmit the data to all devices in the network instead of one specific destination. Routers are more beneficial than hubs and switches because of its attentiveness. The router is able to send data to multitude of various destinations and networks at a greater speed versus hubs and switches that only send to one device. 
