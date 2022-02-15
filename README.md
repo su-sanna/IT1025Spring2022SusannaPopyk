@@ -84,17 +84,21 @@ Two differences between RAM and hard disk storage are one, the RAM is temporary 
 I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked on "open" under it and opened up the command line window. After the initial text that is there, I typed in "mkdir (space) IT1025." There I indicated I made a space between "mkdir" and "IT1025." After this command I hit enter. Then I went into "File Explorer", then User, then my account in the pc, and there I found the file for "IT1025." Lastly, I took a screencapture of my file and uploaded it to Github as "IT1025Folder."
 ### Networking
 #### Data Transmission
-Protocol: Set of rules to allow devices to communicate 
-Packet: Unit of data 
-IP Address: Unique identifying number 
-Packet-Switching: Technology that allows packets of data to be routed based on destination address 
-DNS: Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
+Protocol: Set of rules to allow devices to communicate.
+Packet: Unit of data.
+IP Address: Unique identifying number.
+Packet-Switching: Technology that allows packets of data to be routed based on destination address.
+DNS: Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com.
 The data transmission process begins with a host (any communicational device), which follows a protocol to communicate to another device once a packet has been established. An IP address is established. Then, the packet-switching works with the DNS to choose the IP address needed to base the destination of data being transmitted to. 
 #### Hardware
 The switch has the greater benefit versus the hub because it works more efficiently at transmitting data. In a scenario where an IP address is not found, the switch will transmit the data to all devices in the network instead of one specific destination. Routers are more beneficial than hubs and switches because of its attentiveness. The router is able to send data to multitude of various destinations and networks at a greater speed versus hubs and switches that only send to one device. 
 #### Topologies and Types of Networks
 Single point of failure is a flaw in a portion of a system that can cause the system to fail as a whole. The type of topologies that experience this issue are bus topologies, because if one cable fails then all the rest of the cables fail, resulting in the network to crash. Infrastructure and Wireless mesh topology are similar in that they both have multiple access points. The only difference is that one is physically connected to the switch, while the other is wirelessly connected to the switch. I think the wireless is better because it saves you money and time spent on the extra cabling, and with the wireless, if there was a fail in a connection it won’t crash all other connections; the rest of the connections would still work. 
 #### Protocols
+Primary actions of protocols: Communication, Network management, Security.
+-Communication: various network devices can transfer data among each other. An example of this is Bluetooth headphones- they work according to Bluetooth protocols to connect the headphones to another device such as a computer or phone. 
+-Network management: makes sure devices on a single network run properly. An example of this is when a computer is lagging or crashing, one can try to run troubleshooting protocols to reset the computer and check errors occurring. 
+-Security: takes precaution to keep information on a device safe from strangers. An example of this is encryption. Encryption follows a protocol to secure data during transfer by asking for a security code or some form of pin or password. 
 
 ### Cybersecurity and Encryption
 #### Security Triad
