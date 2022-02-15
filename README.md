@@ -83,6 +83,8 @@ Two differences between RAM and hard disk storage are one, the RAM is temporary 
 #### Operating Systems
 I went to the search bar and typed in cmd. Popped up "Command Prompt," I clicked on "open" under it and opened up the command line window. After the initial text that is there, I typed in "mkdir (space) IT1025." There I indicated I made a space between "mkdir" and "IT1025." After this command I hit enter. Then I went into "File Explorer", then User, then my account in the pc, and there I found the file for "IT1025." Lastly, I took a screencapture of my file and uploaded it to Github as "IT1025Folder."
 ### Networking
+### Network Design
+My design is a data transfer between two computers and a printer. There is a route in the center that connects all the devices in the one network together. Then, to it are connected the two computers. The router catches the signal that the computers want to print a certain page, then it relays that info to the printer. Finally, the printer outputs the results. 
 #### Data Transmission
 Protocol: Set of rules to allow devices to communicate.
 Packet: Unit of data.
