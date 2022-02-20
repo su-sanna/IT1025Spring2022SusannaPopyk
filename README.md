@@ -110,7 +110,7 @@ The difference between Caesar and Polyalphabetic ciphers is that the Caesar ciph
 #### Public and Private Key Encryption
 A public key encrypts a message while the private key decrypts it. And a public key is matched to one private key. 
 #### Brute-Force Attacks
-
+The several methods that can be used to help prevent brute force attacks are as such: creating more longer passwords and more weird and out of the box passwords, using secure browsers and/or utilizing other tools that have a secure function such as antivirus applications having a function of browsing the web securely. And lastly, for various account creation and web recreation, to use two-way authentications, making the info less easily accessible to outsiders. 
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
