@@ -108,6 +108,7 @@ The security triad component of confidentiality impacts the approach of online m
 #### Caesar and Polyalphabetic Ciphers
 The difference between Caesar and Polyalphabetic ciphers is that the Caesar cipher shifts each letter by an agreed number of spaces, while the polyalphabetic cipher substitutes letters multiple times. An example of an encryption of the statement, “Tri-c has a cybersecurity certificate,” as a Caesar cipher would be the following: “pney dwo w yuxanoayqnepu yanpebeywpa.” 
 #### Public and Private Key Encryption
+A public key encrypts a message while the private key decrypts it. And a public key is matched to one private key. 
 #### Brute-Force Attacks
 
 ### Internet Programming
