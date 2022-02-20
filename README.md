@@ -106,6 +106,7 @@ Primary actions of protocols: Communication, Network management, Security.
 #### Security Triad
 The security triad component of confidentiality impacts the approach of online medical records such as MyChart by integrating cybersecurity software to help maintain patients’ information private and safe from hackers and threats. The security triad component of integrity impacts the approach of online medical records such as MyChart by upholding to HIPPA standards and protocols to ensure the data of a patient being inputted or transmitted into MyChart is not changed or edited. The security triad component of availability impacts the approach of online medical records such as MyChart by maintaining the systems and devices that have access to MyChart working properly; without error. And this component makes sure to have saved files and restoration available in case some data were to get lost. 
 #### Caesar and Polyalphabetic Ciphers
+The difference between Caesar and Polyalphabetic ciphers is that the Caesar cipher shifts each letter by an agreed number of spaces, while the polyalphabetic cipher substitutes letters multiple times. An example of an encryption of the statement, “Tri-c has a cybersecurity certificate,” as a Caesar cipher would be the following: “pney dwo w yuxanoayqnepu yanpebeywpa.” 
 #### Public and Private Key Encryption
 #### Brute-Force Attacks
 
