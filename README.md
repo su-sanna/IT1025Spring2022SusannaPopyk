@@ -101,9 +101,9 @@ Primary actions of protocols: Communication, Network management, Security.
 -Communication: various network devices can transfer data among each other. An example of this is Bluetooth headphones- they work according to Bluetooth protocols to connect the headphones to another device such as a computer or phone. 
 -Network management: makes sure devices on a single network run properly. An example of this is when a computer is lagging or crashing, one can try to run troubleshooting protocols to reset the computer and check errors occurring. 
 -Security: takes precaution to keep information on a device safe from strangers. An example of this is encryption. Encryption follows a protocol to secure data during transfer by asking for a security code or some form of pin or password. 
-#### IP Address
+##### IP Address
 
-#### ICANN
+##### ICANN
 
 ### Cybersecurity and Encryption
 #### Security Triad
