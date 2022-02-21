@@ -104,7 +104,7 @@ Primary actions of protocols: Communication, Network management, Security.
 ##### IP Address
 An IP address is a number that allows different devices in a network to communicate with each other. IPv4 is a smaller address size than IPv6. IPv4 is a 32-bit address, while IPv6 is 128-bit hexadecimal address. Alongside being the larger sized address, IPv6 is better in that, that it’s much simpler, and processes packets and performance faster and efficiently, and is more secure than IPv4. 
 ##### ICANN
-
+ICANN stands for Internet Corporation for Assigned Names and Numbers. This is a non-profit partnership of people from various locations around the globe. Their goal is to “ensure a secure, unified internet globally.” They develop different policies for the internet. 
 ### Cybersecurity and Encryption
 #### Security Triad
 The security triad component of confidentiality impacts the approach of online medical records such as MyChart by integrating cybersecurity software to help maintain patients’ information private and safe from hackers and threats. The security triad component of integrity impacts the approach of online medical records such as MyChart by upholding to HIPPA standards and protocols to ensure the data of a patient being inputted or transmitted into MyChart is not changed or edited. The security triad component of availability impacts the approach of online medical records such as MyChart by maintaining the systems and devices that have access to MyChart working properly; without error. And this component makes sure to have saved files and restoration available in case some data were to get lost. 
