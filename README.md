@@ -102,7 +102,7 @@ Primary actions of protocols: Communication, Network management, Security.
 -Network management: makes sure devices on a single network run properly. An example of this is when a computer is lagging or crashing, one can try to run troubleshooting protocols to reset the computer and check errors occurring. 
 -Security: takes precaution to keep information on a device safe from strangers. An example of this is encryption. Encryption follows a protocol to secure data during transfer by asking for a security code or some form of pin or password. 
 ##### IP Address
-
+An IP address is a number that allows different devices in a network to communicate with each other. IPv4 is a smaller address size than IPv6. IPv4 is a 32-bit address, while IPv6 is 128-bit hexadecimal address. Alongside being the bigger address, IPv6 is better in that, that it’s much simpler, and processes packets and performance faster and efficiently, and is more secure than IPv4. 
 ##### ICANN
 
 ### Cybersecurity and Encryption
