@@ -101,7 +101,8 @@ Primary actions of protocols: Communication, Network management, Security.
 -Communication: various network devices can transfer data among each other. An example of this is Bluetooth headphones- they work according to Bluetooth protocols to connect the headphones to another device such as a computer or phone. 
 -Network management: makes sure devices on a single network run properly. An example of this is when a computer is lagging or crashing, one can try to run troubleshooting protocols to reset the computer and check errors occurring. 
 -Security: takes precaution to keep information on a device safe from strangers. An example of this is encryption. Encryption follows a protocol to secure data during transfer by asking for a security code or some form of pin or password. 
-Stands for “hypertext transfer protocol.” It is a protocol that transfers data throughout the web. It is an example of client-server model because it is the server that runs the web software on the client which can be a computer, phone, or tablet. 
+HTTP stands for “hypertext transfer protocol.” It is a protocol that transfers data throughout the web. It is an example of client-server model because it is the server that runs the web software on the client which can be a computer, phone, or tablet. 
+The protocols used by secure HTTP to protect data are encryption protocols. One of which is called Transport Layer Security (TLS). This cryptographic protocol that uses authenticated connections to securely transfer data over the internet through http. 
 
 ##### IP Address
 An IP address is a number that allows different devices in a network to communicate with each other. IPv4 is a smaller address size than IPv6. IPv4 is a 32-bit address, while IPv6 is 128-bit hexadecimal address. Alongside being the larger sized address, IPv6 is better in that, that it’s much simpler, and processes packets and performance faster and efficiently, and is more secure than IPv4. 
