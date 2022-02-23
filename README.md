@@ -120,7 +120,7 @@ The several methods that can be used to help prevent brute force attacks are as 
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
-
+Tim Berners-Lee is the founder of the World Wide Web, established in 1989. He created W3C to refine the standard of the Web. The “Web Designs and Applications” standard is important because it considers people with disabilities - it enhances content to be accessible to the disabled. It works on delivering more secure privacy, and building or enhancing a more efficient site. 
 ### Software Development
 #### Algorithms
 -Variable: “box in the computer’s memory.” Result of an expression can be saved in this box, and the box later, can substitute for the long expression. Example in my code = my age or name (instead of writing out my name or age, the box was created to input it automatically). Author uses such variable names as spam, bacon, and eggs because of a reference to a comedy sketch. 
