@@ -119,6 +119,13 @@ A public key encrypts a message while the private key decrypts it. And a public 
 The several methods that can be used to help prevent brute force attacks are as such: creating more longer passwords and more weird and out of the box passwords, using secure browsers and/or utilizing other tools that have a secure function such as antivirus applications having a function of browsing the web securely. And lastly, for various account creation and web recreation, to use two-way authentications, making the info less easily accessible to outsiders. 
 ### Internet Programming
 #### Components of a URL
+-Scheme: https
+-Domain: www.amazon.com 
+-Top level domain: .edu
+-Default page: result of search
+-Parameters: no file path provided
+-Anchor: specific location on a page
+
 #### World Wide Web Consortium
 Tim Berners-Lee is the founder of the World Wide Web, established in 1989. He created W3C to refine the standard of the Web. The “Web Designs and Applications” standard is important because it considers people with disabilities - it enhances content to be accessible to the disabled. It works on delivering more secure privacy, and building or enhancing a more efficient site. 
 ### Software Development
