@@ -39,7 +39,7 @@ The purpose of virtualization is to share the capabilities of a hard drive among
 -Similarities of jpg, gif, and png files: png and gif support 8-bit colors, png and jpg support 24-bit colors. All are non-lossy. 
 -Differences of jpg, gif, and png files: difference in tasks used for. Jpg used in natural scenes where color and intensity is smooth. Gif used in animations. Png used in logos and text/object images with sharp contrasts.
 #### File Compression
-The purpose and use of file compression is to combine multiple files into one. 
+The purpose and use of file compression is to combine multiple files into one. The difference in size that I observed between the original and compressed is a difference of 36KB. I would expect the differential as a JPEG file to be less because some data and quality of the image would be lost and/or decreased in the compression process. 
 #### Artificial Intelligence
 
 ### Career Exploration
