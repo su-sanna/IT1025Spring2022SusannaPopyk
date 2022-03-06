@@ -140,7 +140,7 @@ Tim Berners-Lee is the founder of the World Wide Web, established in 1989. He cr
 -Strings: texts. Example used in my code = “Hello World,” “It is good to meet you,” etc.
 
 #### Object Oriented Concepts
-The attributes of shark class are “name” and “Sammy.” The methods of shark class are “swim” and “be awesome. “The purpose of constructor is to set data for the start of an operation. A class is a framework to describe an object, while an object is a part of the class. To "instantiate an object from a class” means to make or form an object from a class. 
+The attributes of shark class are “name” and “Sammy.” The methods of shark class are “swim” and “be awesome. “The purpose of constructor is to set data for the start of an operation. A class is a framework to describe an object, while an object is a part of the class. To "instantiate an object from a class” means to make or form an object from a class. The command used to instantiate an object is “construct.” The instantiated objects of the shark class are the names (Sammy, Stevie, and Darrol). In OOP, inheritance is a class made from another class. An example of this relating to the shark class is making a class for each of the shark to define in detail each shark personally. 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
 #### Data and Business Decisions
