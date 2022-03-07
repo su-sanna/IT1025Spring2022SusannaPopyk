@@ -146,6 +146,10 @@ The class diagram consists of a class named "Shark" that consists of attributes,
 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
+-SQL: Structured Query Language is a programming language that manages data from a relational database. The difference between SQL and NoSQL is SQL is more strict, is specific, more for detailed data, and used in the present versus with NoSQL, it is more broad, focuses on the bigger picture than the details, and implements over time. 
+-Four “Vs” of big data: volume, variety, velocity, and variability. Volume dictates whether a data can be classified as big data or not. Variety includes structured and unstructured forms of data, as well as, different sources of information such as emails, files, devices, audio, etc. Velocity is the speed of processing and implementing data. Variability relates to the inconsistency of data that happens through time, which affects the effectiveness of data processing. 
+-Big data’s demand has been driven by a variety of technologies, some of these being the following: artificial intelligence, streaming analytics, blockchain, and many more. 
+
 #### Data and Business Decisions
 #### The relational model and Normalization
 #### SQL Injections
