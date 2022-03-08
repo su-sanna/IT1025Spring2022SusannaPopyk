@@ -159,6 +159,9 @@ And normalization is essential to these decisions because it groups themes of pr
 #### SQL Injections
 SQL injections are a security threat because they crash databases through the hacking of webpages. Preventions and other forms of action that help to reduce such threats are building parameterized queries, stored procedures, input validation, enabling application firewalls, and other techniques. 
 ### Legal and Ethical Responsibilities in Computing
+The purpose of a “code of ethics” is to define and make sure appropriate actions are taking place in a professional or social setting. 
+The ACM created a code for the computing discipline to secure privacy and prevent others from entering into strangers’ data without permission, to prevent individuals from intentionally building software or systems that harm another psychology, well-being, or position, or that can harm the other person’s design, application, product, etc. 
+The role of a trademark in defining the intellectual property is to protect the individual’s intellectual property. Intellectual Property consists ideas or projects made from one’s creativeness and thinking and trademarks are designed for protection, thus an individual’s intellectual property is secured by a trademark to protect one’s service. 
 
 ## Conclusion
 To be completed in the last module of the semester.
