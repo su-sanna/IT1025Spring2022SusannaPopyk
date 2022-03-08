@@ -153,6 +153,9 @@ The class diagram consists of a class named "Shark" that consists of attributes,
 #### Data and Business Decisions
 Three business decisions that could be answered with a well-designed database are what products bring in the most profit, in what location is most of the business and purchases made, and what attracts the customers.
 #### The Relational Model and Normalization
+The existence of primary and foreign keys would be important to the business decisions mentioned previously through that, that they relate each of those questions together. It can be possibly seen what the highest profited products are by what attracts customers to and so forth. 
+And normalization is essential to these decisions because it groups themes of profit, products, and the percentage of most purchased or profited. 
+
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
