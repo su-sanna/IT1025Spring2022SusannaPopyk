@@ -151,7 +151,8 @@ The class diagram consists of a class named "Shark" that consists of attributes,
 -Big data’s demand has been driven by a variety of technologies, some of these being the following: artificial intelligence, streaming analytics, blockchain, and many more. 
 
 #### Data and Business Decisions
-#### The relational model and Normalization
+Three business decisions that could be answered with a well-designed database are what products bring in the most profit, in what location is most of the business and purchases made, and what attracts the customers.
+#### The Relational Model and Normalization
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
