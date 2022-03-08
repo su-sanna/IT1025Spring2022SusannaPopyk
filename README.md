@@ -157,7 +157,7 @@ The existence of primary and foreign keys would be important to the business dec
 And normalization is essential to these decisions because it groups themes of profit, products, and the percentage of most purchased or profited. 
 
 #### SQL Injections
-
+SQL injections are a security threat because they crash databases through the hacking of webpages. Preventions and other forms of action that help to reduce such threats are building parameterized queries, stored procedures, input validation, enabling application firewalls, and other techniques. 
 ### Legal and Ethical Responsibilities in Computing
 
 ## Conclusion
