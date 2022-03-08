@@ -162,6 +162,6 @@ SQL injections are a security threat because they crash databases through the ha
 The purpose of a “code of ethics” is to define and make sure appropriate actions are taking place in a professional or social setting. 
 The ACM created a code for the computing discipline to secure privacy and prevent others from entering into strangers’ data without permission, to prevent individuals from intentionally building software or systems that harm another psychology, well-being, or position, or that can harm the other person’s design, application, product, etc. 
 The role of a trademark in defining the intellectual property is to protect the individual’s intellectual property. Intellectual Property consists ideas or projects made from one’s creativeness and thinking and trademarks are designed for protection, thus an individual’s intellectual property is secured by a trademark to protect one’s service. 
-
+COPPA, FERPA and HIPPA, restrict the collection of information on the internet by implementing laws of restriction by retrieving permissions and parental consent for different pieces of data and by giving the ability for a person or parent to say no if they don’t approve of the privacy to be shared. 
 ## Conclusion
 To be completed in the last module of the semester.
